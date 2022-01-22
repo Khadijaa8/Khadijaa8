@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Khadijaa8
-- 👀 I’m interested in Software Engineering, UX/UI Design and Cyber Security 
+- 👀 I’m interested in Software Engineering and UX/UI Design 
 - 🌱 I’m currently learning Ruby, JavaScript,SQL, Ruby on Rails, HTML and CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Kbulhan8@gmail.com or https://www.linkedin.com/in/khadija-bulhan-670967199/
